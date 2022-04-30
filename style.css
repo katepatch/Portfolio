@@ -1,3 +1,4 @@
+
 body {
     background-color: white;
     font-family: 'Fira Sans', sans-serif;
@@ -75,6 +76,17 @@ main {
     width: 250px;
 }
 
+.gallery {
+    flex:wrap;
+    flex-wrap: wrap;
+}
+
+#card {
+    border-style:groove;
+    border-width: 2px;
+
+}
+
 #fries:hover {
     border: 5px solid rgb(207, 203, 203);
 
@@ -82,7 +94,7 @@ main {
 
 #morty {
     height:275px;
-    width: 200px;
+    width: 185px;
 }
 #morty:hover {
     border: 5px solid rgb(207, 203, 203);
