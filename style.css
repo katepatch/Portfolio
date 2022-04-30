@@ -1,6 +1,6 @@
 body {
     background-color: white;
-
+    font-family: 'Fira Sans', sans-serif;
 
 }
 
@@ -14,13 +14,13 @@ header {
 }
 
 h1 {
-   font-family:Arial, Helvetica, sans-serif;
-   font-size: xx-large;
+
+   font-size:xx-large;
    color: peachpuff;
    text-align: center;
 }
 
-p {
+.paraone {
     font-weight: bolder;
 }
 
@@ -36,6 +36,10 @@ nav a {
     text-align: center;
 }
 
+nav a:hover {
+    
+}
+
 main {
     display: flex;
     flex-wrap: wrap;
@@ -44,13 +48,14 @@ main {
 }
 
 aside {
-    border-right:3px solid black;
+    
     padding-right: 10px;
 }
 
 section {
+    border-left:3px solid black;
     padding: 0px 0px 0px 10px;
-
+    
 }
 
 #avatarPic {
