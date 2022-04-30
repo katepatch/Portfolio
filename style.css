@@ -36,10 +36,6 @@ nav a {
     text-align: center;
 }
 
-nav a:hover {
-    
-}
-
 main {
     display: flex;
     flex-wrap: wrap;
