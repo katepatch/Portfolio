@@ -27,7 +27,7 @@ h1 {
 
 nav {
     display:flex;
-    background-color: orange;
+    background-color: rgb(151, 184, 143);
 }
 
 nav a {
@@ -44,25 +44,26 @@ main {
     font-weight: light;
 }
 
-aside {
+#aboutMe {
     flex: 1;
     padding-right: 10px;
 }
 
-section {
+.background {
     flex: 3;
     padding-left:10px;  
     flex-wrap: wrap;
 }
 
-.columnOne {
-    float:left;
-    width:33.33%;
+#projects {
+    flex: 1;
+    padding-right: 10px;
 }
 
-.columnTwo {
-    float: left;
-    width: 66%;
+.works {
+    flex-wrap: wrap;
+    flex: 3;
+    padding-left:290px;
 }
 
 #avatarPic {
@@ -83,7 +84,7 @@ footer {
     justify-content: space-between;
     display:flex;
     flex-wrap: wrap;
-    border-top:3px solid peachpuff;
+    border-top:5px solid peachpuff;
 
     
 }
