@@ -80,6 +80,13 @@ main {
 
 }
 
+#morty {
+    height:275px;
+    width: 175px;
+}
+#morty:hover {
+    border: 5px solid rgb(207, 203, 203);
+}
 
 
 footer {
