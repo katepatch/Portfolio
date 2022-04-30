@@ -49,8 +49,8 @@ aside {
 }
 
 section {
-    border-left:3px solid black;
-    padding: 0px 0px 0px 10px;
+    border-left:3px solid black;  
+    padding-left:10px;  
     flex-wrap: wrap;
 }
 
@@ -61,6 +61,13 @@ section {
 }
 
 
+footer {
+    background-color: olive;
+    padding:20px;
+    justify-content: space-between;
+    display:flex;
+    flex-wrap: wrap;
+}
 
 @media screen and (max-width:992px) {
     
