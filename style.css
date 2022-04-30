@@ -7,16 +7,16 @@ body {
 header {
    display:flex;
    justify-content: space-between;
-   padding: 60px;
+   padding: 15px;
     border-bottom:5px solid peachpuff;
-    background-color: olive;
+    background-color: rgb(36, 90, 3);
     flex-wrap:wrap;
 }
 
 h1 {
 
    font-size:xx-large;
-   color: peachpuff;
+   color: white;
    text-align: center;
 }
 
@@ -51,9 +51,18 @@ aside {
 
 section {
     flex: 3;
-    border-left:3px solid black;  
     padding-left:10px;  
     flex-wrap: wrap;
+}
+
+.columnOne {
+    float:left;
+    width:33.33%;
+}
+
+.columnTwo {
+    float: left;
+    width: 66%;
 }
 
 #avatarPic {
@@ -66,9 +75,11 @@ section {
 }
 
 
+
 footer {
-    background-color: olive;
-    padding:20px;
+    background-color:rgb(36, 90, 3);
+    color: white;
+    padding:10px;
     justify-content: space-between;
     display:flex;
     flex-wrap: wrap;
