@@ -5,8 +5,9 @@ body {
 }
 
 header {
-    height: 100px;
-    width:100%;
+   display:flex;
+   justify-content: space-between;
+   padding: 60px;
     border-bottom:5px solid peachpuff;
     background-color: olive;
 }
@@ -36,6 +37,12 @@ li a {
     text-align: center;
     padding: 14px 16px;
 
+}
+
+#avatarpic {
+    position: absolute;
+    height: 250px;
+    width: 250px;
 }
 
 
