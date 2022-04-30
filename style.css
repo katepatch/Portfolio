@@ -4,12 +4,20 @@ body {
 
 }
 
+header {
+    height: 100px;
+    width:100%;
+    border-bottom:5px solid peachpuff;
+    background-color: olive;
+}
+
 h1 {
    font-family:Arial, Helvetica, sans-serif;
    font-size: xx-large;
    color: peachpuff;
-
+   text-align: center;
 }
+
 
 ul {
     list-style-type:none;
