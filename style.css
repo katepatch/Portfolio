@@ -36,6 +36,13 @@ nav a {
     text-align: center;
 }
 
+main {
+    display: flex;
+    flex-wrap: wrap;
+    font-size:medium;
+    font-weight: light;
+
+}
 #avatarPic {
     position: absolute;
     height: 500px;
