@@ -68,6 +68,7 @@ footer {
     justify-content: space-between;
     display:flex;
     flex-wrap: wrap;
+    
 }
 
 @media screen and (max-width:992px) {
