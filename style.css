@@ -81,10 +81,9 @@ main {
     flex-wrap: wrap;
 }
 
-#card {
-    border-style:groove;
-    border-width: 2px;
 
+#fries {
+    text-align: center;
 }
 
 #fries:hover {
