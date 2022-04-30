@@ -41,12 +41,22 @@ main {
     flex-wrap: wrap;
     font-size:medium;
     font-weight: light;
+}
+
+aside {
+    border-right:3px solid black;
+    padding-right: 10px;
+}
+
+section {
+    padding: 0px 0px 0px 10px;
 
 }
+
 #avatarPic {
-    position: absolute;
-    height: 500px;
-    width: 500px;
+    position: relative;
+    height: 250px;
+    width: 250px;
 }
 
 
