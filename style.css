@@ -20,8 +20,8 @@ h1 {
    text-align: center;
 }
 
-.paraone {
-    font-weight: bolder;
+.parazero {
+    font-weight:bolder;
 }
 
 nav {
@@ -51,7 +51,7 @@ aside {
 section {
     border-left:3px solid black;
     padding: 0px 0px 0px 10px;
-    
+    flex-wrap: wrap;
 }
 
 #avatarPic {
