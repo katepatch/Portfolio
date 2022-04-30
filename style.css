@@ -75,6 +75,11 @@ main {
     width: 250px;
 }
 
+#fries:hover {
+    border: 5px solid rgb(207, 203, 203);
+
+}
+
 
 
 footer {
