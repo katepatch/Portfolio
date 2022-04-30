@@ -10,6 +10,7 @@ header {
    padding: 60px;
     border-bottom:5px solid peachpuff;
     background-color: olive;
+    flex-wrap:wrap;
 }
 
 h1 {
@@ -17,6 +18,10 @@ h1 {
    font-size: xx-large;
    color: peachpuff;
    text-align: center;
+}
+
+p {
+    font-weight: bolder;
 }
 
 
@@ -39,7 +44,7 @@ li a {
 
 }
 
-#avatarpic {
+#avatarPic {
     position: absolute;
     height: 250px;
     width: 250px;
