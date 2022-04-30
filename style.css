@@ -44,11 +44,12 @@ main {
 }
 
 aside {
-    
+    flex: 1;
     padding-right: 10px;
 }
 
 section {
+    flex: 3;
     border-left:3px solid black;  
     padding-left:10px;  
     flex-wrap: wrap;
