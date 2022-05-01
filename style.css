@@ -135,8 +135,12 @@ footer {
         background-color: white;
         color: black;
     }
-    h1 {
+    #bigtop {
+        background-color: #0897b4;
         color:black
+    }
+    footer {
+        background-color: #0897b4;
     }
 
 }
