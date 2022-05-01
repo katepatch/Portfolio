@@ -121,8 +121,12 @@ footer {
         background-color:peachpuff;
         color:black;
     }
-    h1 {
+    #bigtop {
         color:black;
+        background-color: #1B7F7A;     
+    }
+    footer {
+        background-color:#1B7F7A;
     }
 }
 
