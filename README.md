@@ -5,4 +5,4 @@ added image of my puppy for portfolio work spot.  will be replaced in time as po
 
 I really enjoyed this challenge.  I came into this bootcamp with no previous knowledge and now I built my own portfolio.  Is it perfect?  Hardly but I have to say that I am very proud of what I did this week.  I can't wait until I gain more and more to make it even better.  
 
-<link rel="Screen Shot" href=./Screen-Shot.png>
+<link rel="Screen Shot" src="./Screen-Shot.png">
