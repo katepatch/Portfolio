@@ -17,3 +17,5 @@ I think I can say that I need more time with the design/display of the page.  Bu
 I have added the deployed URL for the first project I collobrated on with a group from class.  We each worked really hard to make our site.  We worked really well together and were willing to help with whatever made someone stuck.  
 
 If you click the picture it will open a new tab and take you to the live site.
+
+![screenshot](./assets/5VMmBq6.png)
