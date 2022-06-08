@@ -9,3 +9,9 @@ I really enjoyed this challenge.  I came into this bootcamp with no previous kno
 ![screenshot](./assets/Screen-Shot.png)
 
 I think I can say that I need more time with the design/display of the page.  But I worked with what I know and lots and lots of Googling.
+
+## project one
+
+I have added the deployed URL for the first project I collobrated on with a group from class.  We each worked really hard to make our site.  We worked really well together and were willing to help with whatever made someone stuck.  
+
+If you click the picture it will open a new tab and take you to the live site.
