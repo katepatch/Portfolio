@@ -85,14 +85,14 @@ main {
 }
 
 
-#fries {
+#project {
     text-align: center;
     height: 500px;
     width: 300px;
 
 }
 
-#fries:hover {
+#project:hover {
     border: 5px solid rgb(207, 203, 203);
 
 }
