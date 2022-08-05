@@ -22,3 +22,6 @@ If you click the picture it will open a new tab and take you to the live site.
 
 ## project two
 
+Here is the deployed URL through Heroku for project 2.  Our group did a blog called Movie Club where a reviewer shares their reviews on movies.  Visitors can login and comment on the reviews and see all their previous comments in their profile.  This was a great group and I am glad we worked together well.  We each helped eachother and did our best to contribute equally.
+
+![screenshot](./assets/Screen-Shot-MovieClub.png)
