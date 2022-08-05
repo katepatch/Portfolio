@@ -97,11 +97,11 @@ main {
 
 }
 
-#morty {
-    height:275px;
-    width: 185px;
+#project-2 {
+    height:500px;
+    width: 750px;
 }
-#morty:hover {
+#project-2:hover {
     border: 5px solid rgb(207, 203, 203);
 }
 
