@@ -1,6 +1,6 @@
 # ChallengeTwo
 
-I got the image for the french fries at the link <https://www.thebossykitchen.com/how-to-make-real-potato-french-fries-grandma-style/>
+I got the image for the french fries at this [link](https://www.thebossykitchen.com/how-to-make-real-potato-french-fries-grandma-style/)
 
 I no longer need the pic for fries but I am leaving the info here.
 
