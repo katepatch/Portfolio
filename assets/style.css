@@ -114,8 +114,16 @@ footer {
     display:flex;
     flex-wrap: wrap;
     border-top:5px solid peachpuff;
+}
 
-    
+.github {
+    text-decoration: none;
+    color:rgb(151, 184, 143)
+}
+
+.email {
+    text-decoration: dotted;
+    color:rgb(151, 184, 143)
 }
 
 @media screen and (max-width:992px) {
