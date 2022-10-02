@@ -105,6 +105,14 @@ main {
     border: 5px solid rgb(207, 203, 203);
 }
 
+#project3 {
+    height:500px;
+    width: 750px;
+}
+#project3:hover {
+    border: 5px solid rgb(207, 203, 203);
+}
+
 
 footer {
     background-color:rgb(36, 90, 3);
