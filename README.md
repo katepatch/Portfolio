@@ -25,3 +25,9 @@ If you click the picture it will open a new tab and take you to the live site.
 Here is the deployed URL through Heroku for project 2.  Our group did a blog called Movie Club where a reviewer shares their reviews on movies.  Visitors can login and comment on the reviews and see all their previous comments in their profile.  This was a great group and I am glad we worked together well.  We each helped eachother and did our best to contribute equally.
 
 ![screenshot](./assets/Screen-Shot-MovieClub.png)
+
+## project three
+
+This is the third project I have completed with a team.  We collaborated to create a community events board.  This board allows you to create a login so you can search and view events happening around you.  This uses a react front end, graphql, mongodb server, and javascript.  </br>
+This was deployed via [Heroku](https://underatackboard.herokuapp.com/)
+![screenshot](./assets/UnderATack.png)
